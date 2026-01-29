@@ -76,7 +76,7 @@ Visualizações: Gráficos de barras
 
 
 
-- Um resumo do que o seu **App de Finanças Pessoais** faz:
+- Um resumo do que **App de Finanças Pessoais** faz:
   O aplicativo de Finanças Pessoais oferece uma forma simples e intuitiva de organizar seus gastos por meio de conversas em linguagem natural. Em vez de preencher formulários ou usar planilhas, o usuário interage com um agente virtual que registra despesas, classifica automaticamente as transações, ajuda a definir metas financeiras e fornece dicas personalizadas de economia. Tudo isso é apresentado em uma interface clara, com visual minimalista em tons de azul e branco, e relatórios acessíveis que facilitam o acompanhamento da vida financeira.  
 
    - O que funcionou bem?
@@ -94,7 +94,5 @@ A categorização automática de transações, embora promissora, ainda depende 
 A interação funciona melhor quando há clareza sobre o formato desejado (texto, snippet, design, reflexão).
 A IA pode atuar como parceira criativa e organizacional, mas o usuário precisa guiar o processo com instruções objetivas e revisões constantes.
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 > https://lovable.dev/projects/e48bad68-8c52-4c7a-96cb-487961e14181
 
